@@ -1,5 +1,5 @@
 const envDev = "https://api.iot.ifra.io"
-var token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NzgxMTMzMzcsImlkIjo4NDQsInR5cGUiOiJhY2Nlc3MifQ.ZM91NWshrpV66htB4G6dNU7bKJcg8iAg5DyLUlUqq-0"
+var token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODE0ODUzNTMsImlkIjo4NDQsInR5cGUiOiJhY2Nlc3MifQ.P2nNFFjaYTrwMtdCPNXC0qrEeQ_dAWoz1BpPKksHw8Y"
 var url = envDev
 /**
  * Get all machine Ex: IFRA_MACHINES()
